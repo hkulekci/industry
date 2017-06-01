@@ -11,7 +11,7 @@
 | Efabrika | İstanbul | http://efabrika.com      |     
 | Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |                                                                                                                       
 | Enuygun.com | İstanbul | http://enuygun.com      |          
-| Epigra | İstanbul | http://epigra.com      |         
+| Epigra | İstanbul | http://epigra.com      |
 | GittiGidiyor | İstanbul | http://www.gittigidiyor.com |  
 | ideasoft | İstanbul | http://ideasoft.com.tr |                                                                                                                                   
 | Kolay İK | İstanbul | http://kolayik.com      |                                                                                                                                  
@@ -19,7 +19,8 @@
 | Mars Athletic Club | İstanbul | http://www.marsathletic.com      |  
 | MediaNova | İstanbul | http://medianova.com      |                                                                                                                               
 | Metglobal | İstanbul | http://metglobal.com      |
-| Modanisa | İstanbul | http://modanisa.com      |                                                                          
+| Modanisa | İstanbul | http://modanisa.com      |  
+| Motivolog Ltd. Şti. | Ankara | https://motivolog.com      |
 | Mynet | İstanbul | http://mynet.com      |                  
 | Nefis Yemek Tarifleri | İstanbul | http://nefisyemektarifleri.com      |  
 | Secret CV | İstanbul | http://secretcv.com      |                                                                                                                                
